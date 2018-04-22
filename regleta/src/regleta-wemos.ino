@@ -9,7 +9,7 @@
 //RTC libs
 #include <Time.h>  
 #include <Wire.h>  
-#include <DS1307RTC.h> 
+//#include <DS1307RTC.h> 
 #include <Rele.h>
 #include <TimeAlarms.h>
 
